@@ -11,7 +11,7 @@ This project focuses on **classifying mental health statuses** of individuals ba
 - Bi-Polar  
 - Personality Disorder  
 
-By leveraging **Natural Language Processing (NLP)** and **Deep Learning** techniques, this project aims to provide insights into mental health research and contribute towards developing intelligent systems such as **early-detection chatbots** and **mental health support tools**.  
+By leveraging **Natural Language Processing (NLP)** and **Deep Learning** techniques, this project aims to provide insights into mental health research and contribute to the development of intelligent systems, such as **early-detection chatbots** and **mental health support tools**.  
 
 ## ⚙️ Methodology
 1. **Data Preparation**  
@@ -31,5 +31,3 @@ By leveraging **Natural Language Processing (NLP)** and **Deep Learning** techni
 4. **Evaluation**  
    - Metrics: Accuracy, Precision, Recall, F1-score  
    - Confusion Matrix to visualize misclassifications  
-
----
